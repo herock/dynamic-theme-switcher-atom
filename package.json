@@ -1,18 +1,14 @@
 {
   "name": "dynamic-theme-switcher",
   "main": "./lib/dynamic-theme-switcher",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Automatically switch themes depending on day or night",
-  "keywords": [
-  ],
-  "activationCommands": {
-
-  },
+  "keywords": [],
+  "activationCommands": {},
   "repository": "https://github.com/herock/dynamic-theme-switcher-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
