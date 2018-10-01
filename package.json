@@ -8,7 +8,7 @@
   "activationCommands": {
 
   },
-  "repository": "https://github.com/atom/dynamic-theme-switcher",
+  "repository": "https://github.com/herock/dynamic-theme-switcher-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
