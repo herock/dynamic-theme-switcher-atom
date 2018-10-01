@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle dynamic-theme-switcher",
+        "command": "dynamic-theme-switcher:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "dynamic-theme-switcher",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "dynamic-theme-switcher:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
